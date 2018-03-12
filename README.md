@@ -1,1 +1,1 @@
-# pgsql-notebook
+# Jupyter notebook for PostgreSQL
